@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|c:\\users\\edj94\\downloads\\edu_client_4\\qawpf\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\study.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:study.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\score.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:score.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\test.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:test.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\test.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:test.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\qna.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:qna.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\join.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:join.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\join.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:join.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\direct_chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:direct_chat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\direct_chat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:direct_chat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\aaa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:aaa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\user_login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:user_login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\user_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:user_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\qna.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:qna.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\study.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:study.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\score.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:score.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\aaa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:aaa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F83095-F0B3-441F-B45D-43F0ABA544FC}|qawpf.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1556,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-14T15:48:24.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QNA.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\QNA.xaml",
+              "RelativeDocumentMoniker": "QNA.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\QNA.xaml",
+              "RelativeToolTip": "QNA.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T15:21:00.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TEST.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\TEST.xaml",
+              "RelativeDocumentMoniker": "TEST.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\TEST.xaml",
+              "RelativeToolTip": "TEST.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T10:12:58.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TEST.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\TEST.xaml.cs",
+              "RelativeDocumentMoniker": "TEST.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\TEST.xaml.cs",
+              "RelativeToolTip": "TEST.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAhwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:13:47.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Menu.xaml",
+              "RelativeDocumentMoniker": "Menu.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Menu.xaml",
+              "RelativeToolTip": "Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T00:42:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T00:40:11.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "STUDY.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\STUDY.xaml",
+              "RelativeDocumentMoniker": "STUDY.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\STUDY.xaml",
+              "RelativeToolTip": "STUDY.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T06:44:47.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "score.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\score.xaml",
+              "RelativeDocumentMoniker": "score.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\score.xaml",
+              "RelativeToolTip": "score.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T11:40:57.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JOIN.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\JOIN.xaml",
+              "RelativeDocumentMoniker": "JOIN.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\JOIN.xaml",
+              "RelativeToolTip": "JOIN.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T12:12:10.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User_Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\User_Login.xaml.cs",
+              "RelativeDocumentMoniker": "User_Login.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\User_Login.xaml.cs",
+              "RelativeToolTip": "User_Login.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAArwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:48:23.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AAA.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\AAA.xaml.cs",
+              "RelativeDocumentMoniker": "AAA.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\AAA.xaml.cs",
+              "RelativeToolTip": "AAA.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:19:15.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:40:10.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Menu.xaml.cs",
+              "RelativeToolTip": "Menu.xaml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADwv2wAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T00:43:27.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Direct_Chat.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Direct_Chat.xaml",
+              "RelativeDocumentMoniker": "Direct_Chat.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Direct_Chat.xaml",
+              "RelativeToolTip": "Direct_Chat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T01:37:44.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-21T09:58:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Direct_Chat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Direct_Chat.xaml.cs",
+              "RelativeDocumentMoniker": "Direct_Chat.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Direct_Chat.xaml.cs",
+              "RelativeToolTip": "Direct_Chat.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:30:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JOIN.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\JOIN.xaml.cs",
+              "RelativeDocumentMoniker": "JOIN.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\JOIN.xaml.cs",
+              "RelativeToolTip": "JOIN.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:12:35.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AAA.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\AAA.xaml",
+              "RelativeDocumentMoniker": "AAA.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\AAA.xaml",
+              "RelativeToolTip": "AAA.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T03:18:54.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User_Login.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\User_Login.xaml",
+              "RelativeDocumentMoniker": "User_Login.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\User_Login.xaml",
+              "RelativeToolTip": "User_Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T00:48:01.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T01:52:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QNA.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\QNA.xaml.cs",
+              "RelativeDocumentMoniker": "QNA.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\QNA.xaml.cs",
+              "RelativeToolTip": "QNA.xaml.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAlwEcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:28:00.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "STUDY.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\STUDY.xaml.cs",
+              "RelativeDocumentMoniker": "STUDY.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\STUDY.xaml.cs",
+              "RelativeToolTip": "STUDY.xaml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAlwHUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:02:29.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "score.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\score.xaml.cs",
+              "RelativeDocumentMoniker": "score.xaml.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\score.xaml.cs",
+              "RelativeToolTip": "score.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:42:32.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Model\\Class1.cs",
+              "RelativeDocumentMoniker": "Model\\Class1.cs",
+              "ToolTip": "C:\\Users\\edj94\\Downloads\\edu_client_4\\qawpf\\Model\\Class1.cs",
+              "RelativeToolTip": "Model\\Class1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:13:30.297Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 502,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

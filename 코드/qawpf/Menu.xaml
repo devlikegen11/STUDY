@@ -1,0 +1,31 @@
+﻿<Page x:Class="qawpf.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:qawpf"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Menu">
+
+    <Grid Background="#FFDEEAEF">
+        <Button x:Name="STD_btn" Content="학  습" HorizontalAlignment="Left" Height="150" Margin="80,265,0,0" VerticalAlignment="Top" Width="150" Foreground="White" Background="#FF0078D7" FontSize="18" FontWeight="Bold" Click="STD_btn_Click" RenderTransformOrigin="1.134,0.52" BorderBrush="{x:Null}"/>
+        <Button x:Name="QA_btn"  Content="자주묻는 Q&amp;A" HorizontalAlignment="Center" Height="150" Margin="0,73,0,0" VerticalAlignment="Top" Width="150" Click="QA_btn_Click" Foreground="White" Background="#FF0078D7" FontSize="18" FontWeight="Bold" BorderBrush="{x:Null}"/>
+        <Button x:Name="DirectChat_btn" Content="상담사와 1:1 채팅" HorizontalAlignment="Center" Height="150" Margin="0,265,0,0" VerticalAlignment="Top" Width="150" Click="DirectChat_btn_Click" Background="#FF0078D7" Foreground="White" FontSize="18" FontWeight="Bold" BorderBrush="{x:Null}"/>
+        <Button x:Name="Login_btn" Content="로그인" HorizontalAlignment="Left" Height="150" Margin="565,73,0,0" VerticalAlignment="Top" Width="150" Click="Login_btn_Click" Background="#FF0078D7" Foreground="White" FontSize="18" FontWeight="Bold" BorderBrush="{x:Null}"/>
+        <Button x:Name="TEST_btn" Content="테스트" HorizontalAlignment="Left" Height="150" Margin="80,73,0,0" VerticalAlignment="Top" Width="150" Foreground="White" Background="#FF0078D7" FontSize="18" FontWeight="Bold" Click="TEST_btn_Click" BorderBrush="{x:Null}"/>
+        <Button x:Name="join_btn" Content="회원가입" HorizontalAlignment="Left" Height="150" Margin="565,265,0,0" VerticalAlignment="Top" Width="150" Background="#FF0078D7" Foreground="White" FontSize="18" FontWeight="Bold" Click="join_btn_Click" BorderBrush="{x:Null}"/>
+        <Rectangle HorizontalAlignment="Center" Height="35" VerticalAlignment="Top" Width="800" Margin="0,1,0,0">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="#FF0078D7" Opacity="0.7"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="역사 퀴즈" VerticalAlignment="Top" Height="43" Width="150" FontSize="20" TextAlignment="Center" Foreground="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="31" Margin="314,2,0,0" VerticalAlignment="Top" Width="31">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/6318067_earth_global_globe_world_country_icon.png" Stretch="Uniform"/>
+            </Rectangle.Fill>
+        </Rectangle>
+
+    </Grid>
+</Page>

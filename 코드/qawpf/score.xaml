@@ -1,0 +1,16 @@
+﻿<Page x:Class="qawpf.score"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:qawpf"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="score">
+
+    <Grid Background="#FFDEE9F0">
+        <Button x:Name="enter" Content="메인으로 가기" HorizontalAlignment="Center" Height="74" Margin="0,318,0,0" VerticalAlignment="Top" Width="256" Click="enter_Click" Background="#FF0078D7" Foreground="White" BorderBrush="{x:Null}" FontSize="18"/>
+        <TextBox x:Name="score_bar" HorizontalAlignment="Center" Height="114" Margin="0,95,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="538" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" FontWeight="Bold" BorderBrush="{x:Null}"/>
+
+    </Grid>
+</Page>
